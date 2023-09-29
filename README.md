@@ -1,4 +1,4 @@
-# Capstone-1-AirBnB-Booking-Analysis-Siddharth-Patondikar
+# Capstone - Airbnb Booking Analysis
 
 ## Power BI Dashboard
 https://www.novypro.com/project/airbnb-booking-analysis-1
